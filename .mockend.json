@@ -6,10 +6,10 @@
     }
   },
   "Comment": {
-    "body": { "string": [
+    "body": { "string":[
       "Thor",
       "Loki"
-    ],
+    ]},
     "post": {
       "belongsTo": "Post"
     }
